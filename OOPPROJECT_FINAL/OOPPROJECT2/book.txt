@@ -1,0 +1,6 @@
+111		isl		ana		11		islamic
+222		cal		ali		9		science
+333		pf		ali		13		science
+444		phy		anas		28		sci
+555		digital		ali		25		cs
+777		chem		thomas		12		sci
